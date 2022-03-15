@@ -9,5 +9,5 @@
   * La utilizacion del ingenio y el ser intuitivo para resolver un problema
   * La convivencia con compañeros, de los que puedo citar a uno: @JorgMorales
 
-Algunas de las funciones basicas de github es el "git status", para enumerar archivos modificados. 
+Algunas de las funciones basicas de github es el git status, para enumerar archivos modificados. 
 
