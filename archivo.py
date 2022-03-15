@@ -6,3 +6,4 @@ Notaintroainge = float (input("Porfavor ingrese su nota en introducción a la in
 Notaestrategias = float(input("Porfavor ingrese su nota en estrategias de razonamiento: "))
 Promedio = float((Notamate1 + Notaquim1 + Notaintroaprogra + Notacomunicacion + Notaintroainge + Notaestrategias)/6)
 print("Su promedio es de: ",Promedio)
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
